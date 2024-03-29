@@ -4,8 +4,7 @@
 
 I'm a computer science graduate with a passion for software development and a focus on mobile app development. I have experience with Flutter, Android, C++, and Java, as well as expertise in data structures and algorithms.
 
-- 🌱 I’m currently learning:  Machine Learning
-- 🤝 I’m looking to collaborate on: Mobile app development projects
+- 🌱 I’m currently learning: DotNet Core
 - 📫 How to reach me: [Email](nishantks121@gmail.com), [LinkedIn](https://www.linkedin.com/in/nishant0073/)
 
 ## Tech Stack
